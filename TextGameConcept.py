@@ -12,13 +12,22 @@ import os
 import time
 import TextGameFunctions
 
-# Global variables
-inventory = ['']
-equippedItems = ['']
-armor = ['']
-gold = 0
-health = 100
-
 if __name__ == "__main__":
-    TextGameFunctions.start()
-    TextGameFunctions.startScreen()
+    # TextGameFunctions.start()
+    # TextGameFunctions.startScreen()
+    # TextGameFunctions.worldIntro()
+    TextGameFunctions.kickingGuy()
+    print('\n' * 50)
+
+
+
+
+
+
+
+
+
+
+
+
+
